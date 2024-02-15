@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeetMe</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="enter_mobile_mumber">Enter Mobile Mumber</string>
+    <string name="send_otp">SEND OTP</string>
+</resources>
