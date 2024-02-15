@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "93206069932",
-    "project_id": "meetme-d1a39",
-    "storage_bucket": "meetme-d1a39.appspot.com"
+    "project_number": "630478308900",
+    "project_id": "meetme-174c7",
+    "storage_bucket": "meetme-174c7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:93206069932:android:2d97ade51dd131aed71509",
+        "mobilesdk_app_id": "1:630478308900:android:440f48c5fcd31895d7fab1",
         "android_client_info": {
           "package_name": "com.example.meetme"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDSBswf97Fg7vnDEV6WSmf0oTpZj3wBqRE"
+          "current_key": "AIzaSyBqCdg-dTDrS_Tl6T9atT4GpiDye5dIUUk"
         }
       ],
       "services": {

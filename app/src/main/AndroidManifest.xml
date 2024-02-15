@@ -13,19 +13,19 @@
         android:theme="@style/Theme.MeetMe"
         tools:targetApi="31">
         <activity
-            android:name=".LoginUsername"
+            android:name=".LoginUserNameActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginOtp"
+            android:name=".LoginOtpActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginPhoneNumber"
+            android:name=".LoginPhoneNumberActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".Splash"
+            android:name=".SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

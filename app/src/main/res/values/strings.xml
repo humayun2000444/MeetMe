@@ -5,4 +5,6 @@
     <string name="_3">3</string>
     <string name="enter_mobile_mumber">Enter Mobile Mumber</string>
     <string name="send_otp">SEND OTP</string>
+    <string name="mobile">Mobile</string>
+    <string name="otp">OTP</string>
 </resources>

@@ -26,9 +26,9 @@
             android:textStyle="bold"
             android:layout_marginTop="20dp"/>
 
-            <ProgressBar
-                android:layout_width="32dp"
-                android:layout_height="wrap_content"/>
+        <ProgressBar
+            android:layout_width="32dp"
+            android:layout_height="wrap_content"/>
 
     </LinearLayout>
 
