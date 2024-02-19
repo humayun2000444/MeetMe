@@ -21,14 +21,14 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="User Name"
+            android:text="@string/user_name"
             android:textSize="18sp"
             android:textStyle="bold"
             android:id="@+id/user_name_text"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="+880 1789 896378"
+            android:text="@string/_880_1789_896378"
             android:id="@+id/phone_text"/>
 
     </LinearLayout>

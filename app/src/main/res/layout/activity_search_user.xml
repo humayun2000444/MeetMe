@@ -9,7 +9,7 @@
     <RelativeLayout
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="55dp"
         android:background="@color/my_secondary">
 
         <TextView
@@ -17,10 +17,11 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="10dp"
             android:layout_toEndOf="@id/back_btn"
-            android:text="Search User"
+            android:text="@string/search_user"
             android:textColor="@color/white"
             android:textSize="22sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:layout_centerVertical="true"/>
 
         <ImageButton
             android:id="@+id/back_btn"
@@ -29,7 +30,9 @@
             android:layout_marginEnd="10dp"
             android:background="?attr/selectableItemBackgroundBorderless"
             android:src="@drawable/back"
-            app:tint="@color/white" />
+            app:tint="@color/white"
+            android:contentDescription="@string/todo"
+            android:layout_centerVertical="true"/>
 
 
     </RelativeLayout>
@@ -46,7 +49,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/edit_text_rounded_cornar"
             android:layout_margin="10dp"
-            android:hint="Username"
+            android:hint="@string/username"
             android:padding="10dp"
             android:elevation="4dp"
             android:layout_toStartOf="@id/search_user_btn"

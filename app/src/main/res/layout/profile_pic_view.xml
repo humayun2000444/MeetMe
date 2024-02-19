@@ -13,6 +13,7 @@
         app:tint="@color/my_primary"
         android:backgroundTint="@color/white"
         android:layout_centerInParent="true"
-        android:id="@+id/profile_pic_image_view"/>
+        android:id="@+id/profile_pic_image_view"
+        android:contentDescription="TODO" />
 
 </RelativeLayout>
